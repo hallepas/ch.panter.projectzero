@@ -1,6 +1,6 @@
 Java / Maven Kickstart Project
 ==============================
-
+test
 Installation
 ------------
 
